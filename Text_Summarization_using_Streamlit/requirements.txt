@@ -1,0 +1,8 @@
+sumy
+txtai[all]
+PyPDF2
+transformers
+langchain
+langchain-community
+accelerate
+streamlit
